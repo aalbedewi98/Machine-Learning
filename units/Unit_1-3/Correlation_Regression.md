@@ -1,20 +1,32 @@
-# Unit 3 - Correlation and Regression
+# Unit 3: Correlation and Regression – Seminar & Exercises
 
-## Task Summary
-- Applied correlation and regression analysis on a dataset.
-- Tools used: Python (pandas, sklearn), Excel for verification.
+**Required Reading:**  
+- Bishop, C. and Bishop, H. (2024) *Deep Learning: Foundations and Concepts*, UK: Cambridge University Press.  
+  - Chapter 4: Regression Models in Machine Learning  
 
-## Results
-- Calculated correlation coefficient: 0.82 → strong positive correlation.
-- Built a regression model: Y = 2.3X + 4.1
-- Created graphs and tables to visualize results.
+### Overview
+Correlation measures relationships between variables; regression predicts outcomes and trends. Both are foundational in ML and AI.
 
-## Reflection (Learning Outcomes & Skills)
-- Learning Outcomes covered: LO2, LO4
-- Skills developed: Data Analysis, Python Programming, Critical Thinking, Numeracy
-- Challenges: Understanding assumptions behind regression analysis.
-- Lessons learned: Improved ability to analyze data and interpret results.
+### Learning Objectives
+- Theoretical understanding of correlation and regression  
+- Compute correlation and regression  
+- Apply these techniques in real-world scenarios  
 
-## Artefacts
-- [Python Notebook](../../artefacts/correlation_regression.ipynb)
-- [Correlation Graph](../../artefacts/corr_graph.png)
+### e-Portfolio Activities
+1. Run correlation and regression programs in Jupyter/Colab:  
+   - `covariance_pearson_correlation.ipynb`  
+   - `linear_regression.ipynb`  
+   - `multiple_linear_regression.ipynb`  
+   - `polynomial_regression.ipynb`  
+2. Observe changes in data points and impacts on models  
+3. Document screenshots and outputs for artefacts
+
+### Artefacts
+- [Correlation & Regression Notebooks](../../artefactss/correlation_regression_notebooks.ipynb)  
+- [Screenshots of Outputs](../../artefactss/correlation_regression_screenshots.png)  
+- Peer discussion summaries
+
+### Learning Outcomes Linked
+- LO2: Analysis of datasets  
+- LO3: Communication of results  
+- LO4: Reflection on applicability and challenges
