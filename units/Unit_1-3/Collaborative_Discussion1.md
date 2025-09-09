@@ -1,17 +1,17 @@
-# Unit 1-3 - Collaborative Discussion 1
+### Metcalf (2024) – Industry 4.0 / 5.0 Discussion
 
-## Task Summary
-- Describe the collaborative discussion activity.
-- Tools used: GitHub discussion boards, Zoom, Google Docs, etc.
+Metcalf (2024) highlights that Industry 4.0 brought automation, IoT, and AI integration to modern industries, but also created vulnerabilities such as cybersecurity threats and over-reliance on digital systems. Industry 5.0 builds on this by emphasising human-centric innovation, resilience, and sustainable practices.
 
-## Results
-- Key outcomes of the discussion.
-- Any agreements, decisions, or analysis points.
+**My Sector: Cybersecurity & Public Services**  
+As someone working in the Information Systems Department within a governmental body, the shift to Industry 5.0 is directly relevant. Digital transformation (Industry 4.0) has already improved service delivery, but cyber threats like ransomware remain a risk (similar to the NHS WannaCry case). Industry 5.0 encourages designing secure, human-focused digital systems that are resilient and socially responsible.
 
-## Reflection (LOs & Skills)
-- Learning Outcomes: LO2, LO3, LO4
-- Skills Developed: Communication, Teamwork, Critical Thinking
+**Key Reflections:**  
+- Industry 4.0 = efficiency and automation.  
+- Industry 5.0 = human–machine collaboration, resilience, social impact.  
+- For Qatar’s public services, Industry 5.0 means embedding cybersecurity, transparency, and sustainability into smart city initiatives.  
+
+**Learning Outcomes Linked:** LO2 (analysis), LO3 (communication), LO4 (reflection).  
 
 ## Artefacts
-- [Discussion Notes](../../artefacts/collab_discussion1_notes.pdf)
-- [Screenshots](../../artefacts/collab_discussion1_screenshot.png)
+- [Intro to ML Notes](../../artefacts/intro_to_ml_notes.md)  
+- [Peer Contributions Summary](../../artefacts/peer_notes.md) 
