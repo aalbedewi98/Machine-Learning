@@ -1,20 +1,21 @@
-# Unit 2 - Seminar Preparation
+# Seminar Preparation – Unit 2: Exploratory Data Analysis
 
-## Task Summary
-- Prepared materials and presentation for Unit 2 seminar.
-- Tools used: Python (for examples), Excel, PowerPoint
+### Required Reading
+- Bishop, C. and Bishop, H. (2024) *Deep Learning: Foundations and Concepts*, UK: Cambridge University Press.  
+  - Chapter 3: Supervised Learning Approaches  
 
-## Results
-- Created slides explaining key concepts from Unit 2.
-- Prepared examples and exercises for classmates.
-- Gained deeper understanding of the topic.
+### Learning Objectives
+- Undertake basic EDA  
+- Understand datasets  
+- Prepare datasets for ML  
 
-## Reflection (Learning Outcomes & Skills)
-- Learning Outcomes covered: LO1, LO2, LO3
-- Skills developed: Communication, Presentation Skills, Time Management
-- Challenges: Condensing complex concepts into clear slides.
-- Lessons learned: Enhanced ability to explain ML concepts clearly.
+### Key Points for Seminar
+1. Steps of EDA: data cleaning, feature selection, anomaly detection  
+2. Visualisation techniques to understand patterns  
+3. Returning to feature engineering based on EDA insights  
+4. Application of EDA to real datasets in Jupyter or Colab  
 
-## Artefacts
-- [Presentation Slides](../../artefacts/seminar_u2.pptx)
-- [Example Notebooks](../../artefacts/seminar_u2_examples.ipynb)
+### Artefacts
+- [EDA Exercise Notebooks](../../artefactss/eda_notebooks.ipynb)  
+- [Visualisation Screenshots](../../artefactss/eda_screenshots.png)  
+- Peer discussion summaries
