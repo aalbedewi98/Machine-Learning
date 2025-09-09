@@ -1,9 +1,11 @@
-# Reflective Piece
+## Reflection – Units 1–3
 
-During the Machine Learning module, I learned both technical and professional skills.  
-Here are the main reflections:
+- **Unit 1:** Learned the foundational concepts of ML, explored the impact of Industry 4.0/5.0 through peer discussions, and understood the importance of human-centred approaches in technology.  
+- **Unit 2:** Developed understanding of EDA processes, validated datasets, identified anomalies, and prepared data for ML models.  
+- **Unit 3:** Applied correlation and regression techniques, learned how variables relate and how to use regression models for prediction.  
 
-- **Challenges Faced:** Explain any difficult tasks or concepts (e.g., regression, CNN models).  
-- **Skills Developed:** Python programming, Excel, team collaboration, time management, critical thinking.  
-- **Learning Outcomes Achieved:** Link back to LO1–LO4.  
-- **Next Steps:** How I will apply this knowledge in future projects or learning.
+**Skills Developed:**  
+- Communication: Reviewing and summarising peer posts  
+- Teamwork: Observing collaborative discussion structures  
+- Critical Thinking: Evaluating Industry 4.0 vs. 5.0 and ML dataset challenges  
+- Technical/Data Skills: EDA, correlation, regression, and predictive modelling
