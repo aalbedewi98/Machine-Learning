@@ -5,12 +5,8 @@
 - **Agenda:** Discuss Collaborative Discussion 1 and assign tasks  
 - **Decisions & Actions:** [Who does what]
 
-## Meeting 2
-- **Date:** [Insert Date]  
-- **Agenda:** Review Perceptron activity progress  
-- **Decisions & Actions:** [Assigned tasks and deadlines]
+## Unit 1–3 Team Meetings
 
-## Meeting 3
-- **Date:** [Insert Date]  
-- **Agenda:** Plan CNN model activity and seminar prep  
-- **Decisions & Actions:** [Notes]
+- Observed collaborative discussions through GitHub forum posts.  
+- Reviewed peer contributions to understand team dynamics, decision-making, and application of Industry 4.0/5.0 concepts.  
+- Took notes for e-portfolio and reflection on communication, teamwork, and critical thinking skills.
