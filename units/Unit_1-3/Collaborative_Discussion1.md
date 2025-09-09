@@ -13,5 +13,5 @@ As someone working in the Information Systems Department within a governmental b
 **Learning Outcomes Linked:** LO2 (analysis), LO3 (communication), LO4 (reflection).  
 
 ## Artefacts
-- [Intro to ML Notes](../../artefacts/intro_to_ml_notes.md)  
-- [Peer Contributions Summary](../../artefacts/peer_notes.md) 
+- [Intro to ML Notes](../../artefactss/intro_to_ml_notes.md)  
+- [Peer Contributions Summary](../../artefactss/peer_notes.md) 
