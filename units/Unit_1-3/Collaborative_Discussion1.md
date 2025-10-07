@@ -29,24 +29,25 @@ Participated in a discussion on Industry 4.0 and 5.0, analyzing implications for
 ## Unit 2 – Exploratory Data Analysis (EDA)
 
 **Task Summary:**  
-Performed EDA on sample datasets to validate, clean, and explore data. Prepared visual analyses and identified anomalies relevant to ML applications in cybersecurity.
+Performed EDA on sample datasets, including the Auto-mpg dataset, to validate, clean, and explore data. Prepared visual analyses and identified anomalies relevant to ML applications in cybersecurity.
 
 **Results:**  
-- Completed dataset validation and cleaning.  
-- Created visualizations to highlight patterns and anomalies.  
-- Enhanced understanding of dataset applicability and challenges.
+- Completed dataset validation and cleaning, including handling missing values and categorical encoding.  
+- Created visualizations such as scatter plots, correlation heatmaps, and histograms to highlight patterns and anomalies.  
+- Enhanced understanding of dataset applicability and challenges for machine learning.  
 
 **Reflection:**  
 - EDA ensures reliable and ethical data usage for ML models.  
-- Improved technical skills in Python/Excel and visual interpretation.  
-- Recognized the importance of human oversight in Industry 5.0 data practices.
+- Improved technical skills in Python (Google Colab, Jupyter Notebook) and visual interpretation.  
+- Recognized the importance of human oversight in Industry 5.0 data practices and ML decision-making.  
 
 **Learning Outcomes Linked:** **LO2, LO3, LO4**
 
 **Artefacts:**  
 - [EDA Exercise Notebooks](../../artefacts/eda_notebooks.ipynb)  
 - [EDA Visualizations](../../artefacts/eda_screenshots.png)  
-- [Peer Contributions Summary](../../artefacts/peer_notes.md)
+- [Peer Contributions Summary](../../artefacts/peer_notes.md)  
+- [EDA Tutorial Reference](https://colab.research.google.com/drive/1nonnJUhote03ysz4BPGPIkzGwkxYi5-9?usp=sharing)
 
 ---
 
