@@ -81,5 +81,6 @@ Learned and applied correlation and regression techniques to quantify relationsh
 
 **Artefacts:**  
 - [Correlation & Regression Notebook](../../artefacts/correlation_regression_notebook.ipynb) – contains code, outputs, and visualizations.  
-- [Unit 3 Tutorial Reference](https://www.datacamp.com/tutorial/correlation-regression-python) – Online tutorial for correlation and regression using Python.
+- [Unit 3 Tutorial Reference](../../artefacts/unit3_lecturecast.pdf) – Lecturecast and reading material from Moodle.
+
 
