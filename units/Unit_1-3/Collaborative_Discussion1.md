@@ -48,7 +48,6 @@ Performed EDA on sample datasets, including the Auto-mpg dataset, to validate, c
 
 **Artefacts:**  
 - [EDA Exercise Notebooks](../../artefacts/eda_notebooks.ipynb)  
-- [EDA Visualizations](../../artefacts/eda_screenshots.png)  
 - [Peer Contributions Summary](../../artefacts/peer_notes.md)  
 - [EDA Tutorial Reference](https://colab.research.google.com/drive/1nonnJUhote03ysz4BPGPIkzGwkxYi5-9?usp=sharing)
 
