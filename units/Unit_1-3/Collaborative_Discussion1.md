@@ -4,74 +4,70 @@
 
 ## Unit 1 – Introduction to Machine Learning
 
-### Metcalf (2024) – Industry 4.0 / 5.0 Discussion
-Metcalf (2024) highlights that Industry 4.0 brought automation, IoT, and AI integration to modern industries, but also created vulnerabilities such as cybersecurity threats and over-reliance on digital systems. Industry 5.0 builds on this by emphasising human-centric innovation, resilience, and sustainable practices.
+**Task Summary:**  
+Participated in a discussion on Industry 4.0 and 5.0, analyzing implications for cybersecurity and public services. Shared insights on automation, IoT, AI integration, and potential vulnerabilities.
 
-**My Sector: Cybersecurity & Public Services**  
-As someone working in the Information Systems Department within a governmental body, the shift to Industry 5.0 is directly relevant. Digital transformation (Industry 4.0) has already improved service delivery, but cyber threats like ransomware remain a risk (similar to the NHS WannaCry case). Industry 5.0 encourages designing secure, human-focused digital systems that are resilient and socially responsible.
+**Results:**  
+- Gained understanding of Industry 4.0 vs Industry 5.0 concepts.  
+- Identified key cybersecurity risks and strategies for public services.  
+- Improved communication and collaboration skills within a team.
 
-**Key Reflections:**  
-- Industry 4.0 = efficiency and automation.  
-- Industry 5.0 = human–machine collaboration, resilience, social impact.  
-- For Qatar’s public services, Industry 5.0 means embedding cybersecurity, transparency, and sustainability into smart city initiatives.
+**Reflection:**  
+- Industry 4.0 = efficiency and automation; Industry 5.0 = human–machine collaboration, resilience, social impact.  
+- Learned the importance of embedding security, transparency, and sustainability in digital transformation initiatives.  
+- Applied critical thinking to connect ML concepts with real-world public sector challenges.
 
-**Learning Outcomes Linked:** LO2 (analysis), LO3 (communication), LO4 (reflection)
+**Learning Outcomes Linked:** **LO2, LO3, LO4**
 
 **Artefacts:**  
-- [Intro to ML Notes](../../artefactss/intro_to_ml_notes.md)  
-- [Peer Contributions Summary](../../artefactss/peer_notes.md)
+- [Intro to ML Notes](../../artefacts/intro_to_ml_notes.md)  
+- [Peer Contributions Summary](../../artefacts/peer_notes.md)  
+- [Recording of Discussion](../../artefacts/Recording_AND_seminars.docx)
 
 ---
 
 ## Unit 2 – Exploratory Data Analysis (EDA)
 
-### Overview
-EDA is valuable to data science (and AI) projects since it ensures the results will be valid, correctly interpreted, and applicable to business contexts. This is achieved after validating raw data and checking for anomalies. EDA also helps identify hidden insights valuable to stakeholders and data scientists.
+**Task Summary:**  
+Performed EDA on sample datasets to validate, clean, and explore data. Prepared visual analyses and identified anomalies relevant to ML applications in cybersecurity.
 
-**Learning Goals:**  
-- Steps involved with EDA  
-- Feature exploration  
-- Spotting anomalies  
-- Visual analysis of datasets
+**Results:**  
+- Completed dataset validation and cleaning.  
+- Created visualizations to highlight patterns and anomalies.  
+- Enhanced understanding of dataset applicability and challenges.
 
-**My Sector: Cybersecurity & Public Services**  
-EDA supports detecting anomalies in system logs, validating datasets, and improving ML model performance. In the context of Industry 5.0, it ensures human oversight, ethical use of data, and resilience of systems.
+**Reflection:**  
+- EDA ensures reliable and ethical data usage for ML models.  
+- Improved technical skills in Python/Excel and visual interpretation.  
+- Recognized the importance of human oversight in Industry 5.0 data practices.
 
-**Key Reflections:**  
-- EDA = clean, reliable data for ML and AI applications  
-- Industry 4.0 = automated data processing; Industry 5.0 = human-guided analysis  
-- For Qatar’s public services, EDA under Industry 5.0 enhances secure, transparent, and resilient decision-making
-
-**Learning Outcomes Linked:** LO2, LO3, LO4  
+**Learning Outcomes Linked:** **LO2, LO3, LO4**
 
 **Artefacts:**  
-- [EDA Exercise Notebooks](../../artefactss/eda_notebooks.ipynb)  
-- [Screenshots of Visualisations](../../artefactss/eda_screenshots.png)  
-- [Peer Contributions Summary](../../artefactss/peer_notes.md)
+- [EDA Exercise Notebooks](../../artefacts/eda_notebooks.ipynb)  
+- [EDA Visualizations](../../artefacts/eda_screenshots.png)  
+- [Peer Contributions Summary](../../artefacts/peer_notes.md)
 
 ---
 
 ## Unit 3 – Correlation and Regression
 
-### Overview
-Correlation and regression quantify and describe relationships between variables. Correlation measures the strength and type of relationship, while regression provides equations for predicting unseen values.
+**Task Summary:**  
+Performed correlation and regression analyses to examine relationships between variables. Applied models to predict system behaviour and detect anomalies.
 
-**Learning Goals:**  
-- Core aspects of correlation and regression  
-- Techniques to measure them  
-- Applications in real-world scenarios
+**Results:**  
+- Produced correlation matrices and regression models.  
+- Interpreted predictive relationships and statistical significance.  
+- Applied models to hypothetical public service datasets to simulate anomaly detection.
 
-**My Sector: Cybersecurity & Public Services**  
-Correlation and regression models can predict potential system failures or detect abnormal activity. Industry 5.0 emphasizes resilience, ethical use, and human oversight in predictive analytics.
+**Reflection:**  
+- Correlation = understanding relationships; Regression = predictive modeling.  
+- Learned the practical value of predictive analytics for resilient and secure public systems.  
+- Strengthened critical thinking by evaluating the performance and applicability of different models.
 
-**Key Reflections:**  
-- Correlation = variable relationships; Regression = predictive modeling  
-- Industry 4.0 = automated insights; Industry 5.0 = resilient, human-supervised predictions  
-- Public services in Qatar must integrate security, transparency, and social accountability in predictive models
-
-**Learning Outcomes Linked:** LO2, LO3, LO4  
+**Learning Outcomes Linked:** **LO2, LO3, LO4**
 
 **Artefacts:**  
-- [Correlation & Regression Notebooks](../../artefactss/correlation_regression_notebooks.ipynb)  
-- [Screenshots of Outputs](../../artefactss/correlation_regression_screenshots.png)  
-- [Peer Contributions Summary](../../artefactss/peer_notes.md)
+- [Correlation & Regression Notebooks](../../artefacts/correlation_regression_notebooks.ipynb)  
+- [Output Screenshots](../../artefacts/correlation_regression_screenshots.png)  
+- [Peer Contributions Summary](../../artefacts/peer_notes.md)
