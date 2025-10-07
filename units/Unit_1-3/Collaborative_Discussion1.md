@@ -32,7 +32,7 @@ Participated in a discussion on Industry 4.0 and 5.0, analyzing implications for
 Performed EDA on sample datasets, including the Auto-mpg dataset, to validate, clean, and explore data. Prepared visual analyses and identified anomalies relevant to ML applications in cybersecurity.
 
 **Results:**  
-- Completed dataset validation and cleaning, including handling missing values and categorical encoding.  
+- Completed dataset validation and cleaning, including handling missing values (`horsepower`) and encoding categorical data (`car name`, `origin`).  
 - Created visualizations such as scatter plots, correlation heatmaps, and histograms to highlight patterns and anomalies.  
 - Enhanced understanding of dataset applicability and challenges for machine learning.  
 
@@ -41,7 +41,10 @@ Performed EDA on sample datasets, including the Auto-mpg dataset, to validate, c
 - Improved technical skills in Python (Google Colab, Jupyter Notebook) and visual interpretation.  
 - Recognized the importance of human oversight in Industry 5.0 data practices and ML decision-making.  
 
-**Learning Outcomes Linked:** **LO2, LO3, LO4**
+**Learning Outcomes Linked:**  
+- **LO2:** Understand the applicability and challenges of datasets for ML.  
+- **LO3:** Apply EDA techniques critically to real-world datasets.  
+- **LO4:** Collaborate on group tasks, sharing findings and documenting in the e-portfolio.  
 
 **Artefacts:**  
 - [EDA Exercise Notebooks](../../artefacts/eda_notebooks.ipynb)  
