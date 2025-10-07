@@ -1,4 +1,4 @@
-# Peer Contributions – Unit 1
+# Peer Contributions – Unit 1 and 2
 
 ## Overview
 This file summarises the key contributions of my peers during the **Collaborative Discussion 1 (Unit 1)**.  
