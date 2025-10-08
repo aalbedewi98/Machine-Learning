@@ -1,81 +1,92 @@
 # ML E-Portfolio
 
-**Student:** Ajayeb Mohammed Al-Bedewi  
-**Date:** 12 August 2025  
+This repository contains e-portfolio materials for the Machine Learning module.  
 
-This repository contains my e-portfolio materials for the **Machine Learning module**, documenting learning, exercises, and reflections for Units 1–3.
-
----
-
-## Table of Contents
-
-1. [Unit 1: Introduction to Machine Learning](#unit-1-introduction-to-machine-learning)  
-2. [Unit 2: Exploratory Data Analysis (EDA)](#unit-2-exploratory-data-analysis-eda)  
-3. [Unit 3: Correlation and Regression](#unit-3-correlation-and-regression)  
-4. [Peer Contributions](#peer-contributions)  
-5. [Learning Outcomes Summary](#learning-outcomes-summary)  
-6. [Reflection](#reflection)  
+**Units 1–3 include:**
 
 ---
 
-## Unit 1: Introduction to Machine Learning
+## Unit 1 – Introduction to Machine Learning
 
-**Focus:** Industry 4.0 and 5.0, implications for cybersecurity and public services.  
+**Task Summary:**  
+Participated in a discussion on Industry 4.0 and 5.0, analyzing implications for cybersecurity and public services. Shared insights on automation, IoT, AI integration, and potential vulnerabilities.
+
+**Results:**  
+- Gained understanding of Industry 4.0 vs Industry 5.0 concepts.  
+- Identified key cybersecurity risks and strategies for public services.  
+- Improved communication and collaboration skills within a team.
+
+**Reflection:**  
+- Industry 4.0 = efficiency and automation; Industry 5.0 = human–machine collaboration, resilience, social impact.  
+- Learned the importance of embedding security, transparency, and sustainability in digital transformation initiatives.  
+- Applied critical thinking to connect ML concepts with real-world public sector challenges.
+
+**Learning Outcomes Linked:**  
+- **LO2:** Understand the applicability and challenges associated with digital technologies and data for ML in public services.  
+- **LO3:** Apply ML concepts to real-world scenarios, considering cybersecurity and operational efficiency.  
+- **LO4:** Develop skills to review peers’ contributions, reflect critically, and communicate insights effectively.
 
 **Artefacts:**  
-- [Lecturecast Notes](../../artefacts/intro_to_ml_notes.md)  
+- [Intro to ML Notes](../../artefacts/intro_to_ml_notes.md)  
 - [Peer Contributions Summary](../../artefacts/peer_notes.md)  
-- [Recording of Discussion](../../artefacts/Recording_AND_seminars.md)  
+- [Recording of Discussion](../../artefacts/Recording_AND_seminars.md)
 
 ---
 
-## Unit 2: Exploratory Data Analysis (EDA)
+## Unit 2 – Exploratory Data Analysis (EDA)
 
-**Focus:** Validating, cleaning, and exploring datasets; visualizing patterns and anomalies.  
+**Task Summary:**  
+Performed EDA on the Auto-mpg dataset to validate, clean, and explore data. Identified missing values, encoded categorical features, and visualized patterns and anomalies.
+
+**Results:**  
+- Completed dataset cleaning, including handling missing values and encoding categorical variables.  
+- Visualized data using scatter plots, histograms, and correlation heatmaps.  
+- Enhanced understanding of dataset applicability and challenges for ML, particularly in predictive modeling.
+
+**Reflection:**  
+- EDA ensures ethical and reliable data usage in ML.  
+- Improved skills in Python (Google Colab, Jupyter Notebook) for preprocessing and visualization.  
+- Recognized the importance of human oversight in data practices and Industry 5.0 principles.  
+- Observing peer tutorials and examples helped develop critical thinking in data analysis.
+
+**Learning Outcomes Linked:**  
+- **LO2:** Gain understanding of dataset validation, cleaning, and visualization for ML applications.  
+- **LO3:** Apply exploratory data analysis techniques to identify patterns, anomalies, and correlations.  
+- **LO4:** Develop analytical skills and reflect on best practices observed in peer tutorials and exercises.
 
 **Artefacts:**  
-- [EDA Exercise Notebooks](../../artefactss/eda_notebooks.ipynb) – contains code and outputs.  
-- [Visualisation Screenshots](../../artefactss/eda_screenshots.png)  
-- [EDA Tutorial Reference](https://colab.research.google.com/drive/1nonnJUhote03ysz4BPGPIkzGwkxYi5-9?usp=sharing)  
+- [EDA Exercise Notebooks](../../artefacts/eda_notebooks.ipynb) – contains code, outputs, and saved screenshots.  
+- [Peer Contributions Summary](../../artefacts/peer_notes.md)  
+- [EDA Tutorial Reference](https://colab.research.google.com/drive/1nonnJUhote03ysz4BPGPIkzGwkxYi5-9?usp=sharing)
 
 ---
 
-## Unit 3: Correlation and Regression
+## Unit 3 – Correlation and Regression
 
-**Focus:** Quantifying relationships between variables and predicting outcomes using correlation and regression techniques.  
+**Task Summary:**  
+Learned and applied correlation and regression techniques to quantify relationships between variables and predict outcomes. Explored practical applications using sample datasets in Python.
+
+**Results:**  
+- Calculated Pearson and Spearman correlation coefficients to assess linear and monotonic relationships.  
+- Built simple linear regression models to predict outcomes and evaluated model fit using R² and residual analysis.  
+- Visualized relationships with scatter plots, regression lines, and heatmaps.  
+- Improved understanding of how correlation informs feature selection and regression aids predictive modeling.
+
+**Reflection:**  
+- Understanding correlation helps in feature selection and identifying multicollinearity.  
+- Regression analysis allows prediction but requires careful checking of assumptions (linearity, independence, homoscedasticity).  
+- Enhanced practical skills in Python (pandas, numpy, seaborn, matplotlib) for statistical analysis.  
+- Peer discussions and tutorials reinforced understanding of theoretical concepts and practical implementation.
+
+**Learning Outcomes Linked:**  
+- **LO2:** Understand the use of correlation and regression to analyze relationships between variables.  
+- **LO3:** Apply statistical methods to predict outcomes and assess model performance.  
+- **LO4:** Critically review peers’ examples and tutorials to reinforce learning and professional practice.
 
 **Artefacts:**  
 - [Correlation & Regression Notebook](../../artefacts/Unit03_correlation_regression_notebook.ipynb) – contains code, outputs, and visualizations.  
-- [Unit 3 Tutorial Reference](../../artefacts/unit3_lecturecast.pdf) – lecturecast and reading material.  
+- [Unit 3 Tutorial Reference](../../artefacts/unit3_lecturecast.pdf) – Lecturecast and reading material from Moodle.
 
 ---
 
-## Peer Contributions
-
-Insights and reflections from:  
-- Lauretta Oghenevurie  
-- Saeed Al-Ali  
-- Matthew Bullen  
-- Eslam Salaheldin Abdelnaser  
-- Jose Torres  
-- Abdulrahman Alhashmi  
-
-**Impact:** Enhanced understanding of ethical, social, and professional issues, resilience, human–AI collaboration, and Industry 5.0 practices.
-
----
-
-## Learning Outcomes Summary
-
-| Unit | Learning Outcomes | Evidence / Artefacts |
-|------|-----------------|-------------------|
-| 1    | LO2: Applicability and challenges of ML in public services<br>LO3: Apply ML to real-world scenarios<br>LO4: Teamwork and peer review skills | Lecturecast Notes, Peer Contributions Summary, Discussion Recording |
-| 2    | LO2: Dataset validation, cleaning, visualization<br>LO3: EDA techniques for patterns and anomalies<br>LO4: Observing peer tutorials and analytical skills | EDA Exercise Notebooks, Screenshots, Tutorial Reference |
-| 3    | LO2: Correlation and regression analysis<br>LO3: Predict outcomes, assess model performance<br>LO4: Reinforce learning through peer examples | Correlation & Regression Notebook, Tutorial Reference |
-
----
-
-## Reflection
-
-This e-portfolio demonstrates my progression through Units 1–3, combining theoretical learning, practical exercises, and analysis of peers’ contributions. I improved my technical skills in Python, data preprocessing, visualization, correlation, and regression, while reflecting on ethical and professional practices in ML.  
-
-By documenting my learning and linking artefacts, I have created a **clear, professional record** of my work suitable for assessment and future reference.
+**Peer contributions included:** Lauretta Oghenevurie, Saeed Al-Ali, Matthew Bullen, Eslam Salaheldin Abdelnaser, Jose Torres, Abdulrahman Alhashmi.
