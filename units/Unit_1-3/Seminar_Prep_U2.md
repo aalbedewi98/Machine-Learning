@@ -1,4 +1,4 @@
-# -*Unit 2 Seminar – EDA Tutorial*-
+# *Unit 2 Seminar – EDA Tutorial*
 """
 Author: Ajayeb Mohammed Al-Bedewi
 Date: 12.Aug.2025
