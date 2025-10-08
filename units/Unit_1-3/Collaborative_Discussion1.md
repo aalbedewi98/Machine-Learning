@@ -26,8 +26,9 @@ Participated in a discussion on Industry 4.0 and 5.0, analyzing implications for
 **Artefacts:**  
 - [Intro to ML Notes](../../artefacts/intro_to_ml_notes.md)  
 - [Peer Contributions Summary](../../artefacts/peer_notes.md)  
-- [Recording of Discussion](../../artefacts/Recording_AND_seminars.md)
+- [Recording of Discussion](../../artefacts/Recording AND seminars.md)
 """
+
 
 """
 ## Unit 2 – Exploratory Data Analysis (EDA)
