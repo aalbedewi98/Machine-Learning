@@ -29,7 +29,6 @@ Participated in a discussion on Industry 4.0 and 5.0, analyzing implications for
 - [Recording of Discussion](../../artefacts/Recording_AND_seminars.md)
 """
 
-# %% [markdown]
 """
 ## Unit 2 – Exploratory Data Analysis (EDA)
 
@@ -58,7 +57,7 @@ Performed EDA on the Auto-mpg dataset to validate, clean, and explore data. Iden
 - [EDA Tutorial Reference](https://colab.research.google.com/drive/1nonnJUhote03ysz4BPGPIkzGwkxYi5-9?usp=sharing)
 """
 
-# %% [markdown]
+
 """
 ## Unit 3 – Correlation and Regression
 
