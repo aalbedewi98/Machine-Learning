@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-E-Portfolio: Collaborative Discussion 1 – Units 1-3
-Author: [Your Name]
-Date: [Insert Date]
-"""
 
-# %% [markdown]
-"""
 # Collaborative Discussion 1 – Units 1-3
 
 ---
