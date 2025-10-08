@@ -52,7 +52,7 @@ Performed EDA on the Auto-mpg dataset to validate, clean, and explore data. Iden
 - LO4: Reviewed peers’ contributions and tutorials to develop analytical and collaborative skills.
 
 **Artefacts:**  
-- [EDA Exercise Notebooks](../../artefacts/eda_notebooks.ipynb) – contains code, outputs, and saved screenshots.  
+- [EDA Exercise Notebooks](../../artefacts/unit02_eda_notebooks.ipynb) – contains code, outputs, and saved screenshots.  
 - [Peer Contributions Summary](../../artefacts/peer_notes.md)  
 - [EDA Tutorial Reference](https://colab.research.google.com/drive/1nonnJUhote03ysz4BPGPIkzGwkxYi5-9?usp=sharing)
 """
