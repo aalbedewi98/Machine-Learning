@@ -80,7 +80,7 @@ Learned and applied correlation and regression techniques to quantify relationsh
 - **LO4:** Reflected on peers’ examples and tutorials to reinforce learning and professional practice.
 
 **Artefacts:**  
-- [Correlation & Regression Notebook](../../artefacts/correlation_regression_notebook.ipynb) – contains code, outputs, and visualizations.  
+- [Correlation & Regression Notebook](../../artefacts/Unit03_correlation_regression_notebook.ipynb) – contains code, outputs, and visualizations.  
 - [Unit 3 Tutorial Reference](../../artefacts/unit3_lecturecast.pdf) – Lecturecast and reading material from Moodle.
 
 
