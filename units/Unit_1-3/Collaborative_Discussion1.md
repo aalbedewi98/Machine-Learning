@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+E-Portfolio: Collaborative Discussion 1 – Units 1-3
+Author: [Your Name]
+Date: [Insert Date]
+"""
+
+# %% [markdown]
+"""
 # Collaborative Discussion 1 – Units 1-3
 
 ---
@@ -13,26 +22,27 @@ Participated in a discussion on Industry 4.0 and 5.0, analyzing implications for
 - Improved communication and collaboration skills within a team.
 
 **Reflection:**  
-- Industry 4.0 = efficiency and automation; Industry 5.0 = human–machine collaboration, resilience, social impact.  
+- Industry 4.0 emphasizes efficiency and automation; Industry 5.0 emphasizes human–machine collaboration, resilience, and social impact.  
 - Learned the importance of embedding security, transparency, and sustainability in digital transformation initiatives.  
 - Applied critical thinking to connect ML concepts with real-world public sector challenges.
 
 **Learning Outcomes Linked:**  
-- **LO2:** Understand the applicability and challenges associated with digital technologies and data for ML in public services.  
-- **LO3:** Apply ML concepts to real-world scenarios, considering cybersecurity and operational efficiency.  
-- **LO4:** Develop skills to work effectively in a team environment, reviewing peers’ work and contributing insights.
+- LO2: Understand the applicability and challenges associated with digital technologies and data for ML in public services.  
+- LO3: Apply ML concepts to real-world scenarios, considering cybersecurity and operational efficiency.  
+- LO4: Develop skills to work effectively in a team environment, reviewing peers’ work and contributing insights.
 
 **Artefacts:**  
 - [Intro to ML Notes](../../artefacts/intro_to_ml_notes.md)  
 - [Peer Contributions Summary](../../artefacts/peer_notes.md)  
 - [Recording of Discussion](../../artefacts/Recording_AND_seminars.md)
+"""
 
----
-
+# %% [markdown]
+"""
 ## Unit 2 – Exploratory Data Analysis (EDA)
 
 **Task Summary:**  
-Performed EDA on the Auto-mpg dataset to validate, clean, and explore data. Identified missing values, encoded categorical features, and visualized patterns and anomalies.
+Performed EDA on the Auto-mpg dataset to validate, clean, and explore data. Identified missing values, encoded categorical features, and reviewed tutorials to understand data patterns and anomalies.
 
 **Results:**  
 - Completed dataset cleaning, including handling missing values and encoding categorical variables.  
@@ -46,21 +56,22 @@ Performed EDA on the Auto-mpg dataset to validate, clean, and explore data. Iden
 - Even without direct peer collaboration, observing tutorials and common practices helped develop critical thinking in data analysis.
 
 **Learning Outcomes Linked:**  
-- **LO2:** Gained understanding of dataset validation, cleaning, and visualization for ML applications.  
-- **LO3:** Applied exploratory data analysis techniques to identify patterns, anomalies, and correlations.  
-- **LO4:** Reviewed peers’ contributions and tutorials to develop analytical and collaborative skills.
+- LO2: Gained understanding of dataset validation, cleaning, and visualization for ML applications.  
+- LO3: Applied exploratory data analysis techniques to identify patterns, anomalies, and correlations.  
+- LO4: Reviewed peers’ contributions and tutorials to develop analytical and collaborative skills.
 
 **Artefacts:**  
 - [EDA Exercise Notebooks](../../artefacts/eda_notebooks.ipynb) – contains code, outputs, and saved screenshots.  
 - [Peer Contributions Summary](../../artefacts/peer_notes.md)  
 - [EDA Tutorial Reference](https://colab.research.google.com/drive/1nonnJUhote03ysz4BPGPIkzGwkxYi5-9?usp=sharing)
+"""
 
----
-
+# %% [markdown]
+"""
 ## Unit 3 – Correlation and Regression
 
 **Task Summary:**  
-Learned and applied correlation and regression techniques to quantify relationships between variables and predict outcomes. Explored practical applications using sample datasets in Python.
+Learned and applied correlation and regression techniques to quantify relationships between variables and predict outcomes. Explored practical applications using sample datasets in Python and reviewed peers’ examples to reinforce understanding.
 
 **Results:**  
 - Calculated Pearson and Spearman correlation coefficients to assess linear and monotonic relationships.  
@@ -72,15 +83,14 @@ Learned and applied correlation and regression techniques to quantify relationsh
 - Understanding correlation helps in feature selection and identifying multicollinearity.  
 - Regression analysis allows prediction but requires careful checking of assumptions (linearity, independence, homoscedasticity).  
 - Enhanced practical skills in Python (pandas, numpy, seaborn, matplotlib) for statistical analysis.  
-- Peer discussions and tutorials reinforced understanding of theoretical concepts and practical implementation.
+- Reviewing peers’ examples and tutorials reinforced understanding of theoretical concepts and practical implementation, even without direct discussion participation.
 
 **Learning Outcomes Linked:**  
-- **LO2:** Understood the use of correlation and regression for analyzing relationships between variables.  
-- **LO3:** Applied statistical methods to predict outcomes and assess model performance.  
-- **LO4:** Reflected on peers’ examples and tutorials to reinforce learning and professional practice.
+- LO2: Understood the use of correlation and regression for analyzing relationships between variables.  
+- LO3: Applied statistical methods to predict outcomes and assess model performance.  
+- LO4: Reflected on peers’ examples and tutorials to reinforce learning and professional practice.
 
 **Artefacts:**  
 - [Correlation & Regression Notebook](../../artefacts/Unit03_correlation_regression_notebook.ipynb) – contains code, outputs, and visualizations.  
 - [Unit 3 Tutorial Reference](../../artefacts/unit3_lecturecast.pdf) – Lecturecast and reading material from Moodle.
-
-
+"""
