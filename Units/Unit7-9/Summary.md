@@ -35,8 +35,9 @@ This unit introduced the structure and logic of ANN, inspired by biological neur
 - **LO4:** Communicate insights and collaborate professionally in AI-related tasks.  
 
 ### Related Artefacts
-- [Unit7_Artefacts](../../Units/Unit7-9/Artefacts/Unit7)  
-- [Perceptron_Activity](../../Units/Unit7-9/Artefacts/Perceptron.png)  
+- [Simple_Perceptron](../../Units/Unit7-9/Artefacts/Unit07_Ex1_simple_perceptron.ipynb)
+- [Perceptron_AND_Operator](../../Units/Unit7-9/Artefacts/Unit07_Ex1_simple_perceptron.ipynb)  
+- [Multi_Layer_Perceptron](../../Units/Unit7-9/Artefacts/Unit07_Ex1_simple_perceptron.ipynb) 
 
 ---
 
