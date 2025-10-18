@@ -6,7 +6,7 @@ Welcome to my Machine Learning e-portfolio. This portfolio documents my learning
 
 ## Table of Contents
 
-1. [About Me](About_Me/README.md)  
+1. [About Me](Machine-Learning/About_Me)  
    - CV and brief biography  
    - Career goals and aspirations  
 
