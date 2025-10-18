@@ -10,7 +10,7 @@ Welcome to my Machine Learning e-portfolio. This portfolio documents my learning
    - CV and brief biography  
    - Career goals and aspirations  
 
-2. [Units 1–12](Units/README.md)  
+2. [Units 1–12](Units/)  
    - Summary of learning outcomes per unit  
    - Artefacts, notebooks, recordings, and seminar notes  
    - Peer and tutor feedback  
