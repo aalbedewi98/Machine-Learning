@@ -40,7 +40,11 @@ The session improved my understanding of NLP and its applications, highlighting 
 - **LO3:** Reflect on ethical considerations in AI.  
 
 ### Artefacts
-- GitHub repository with code and assignments (shared across Units 10–12).  
+- [NLP_AND_Transformer_Models_Code](../../Units/Unit_10-12/Artefacts/Unit10_Code.ipynb) 
+- [NLP_AND_Transformer_Models_Explantion](../../Units/Unit_10-12/Artefacts/Unit10_CodeExplantion.md)  
+- [Summary](../../Units/Unit_10-12/Summary.md)
+- [Feedback](../../Units/Unit_10-12/Feedback.md)
+
 
 ---
 
@@ -58,7 +62,10 @@ The session improved my understanding of NLP and its applications, highlighting 
 Studying CNNs helped me understand image classification, model training processes, and hyperparameter tuning. Although no seminar was held, personal study and team coordination enhanced practical skills in deep learning.  
 
 ### Artefacts
-- GitHub repository with code and assignments (shared across Units 10–12).  
+- [Summary](../../Units/Unit_10-12/Summary.md)
+- [Feedback](../../Units/Unit_10-12/Feedback.md)
+
+
 
 ---
 
@@ -97,7 +104,9 @@ The seminar reinforced the importance of professional documentation, reflective 
 - **LO2:** Develop collaboration and communication skills.  
 - **LO3:** Reflect on ethical, professional, and practical considerations in AI.  
 
-### Artefacts
-- GitHub repository with code and assignments (shared across Units 10–12).  
+### Artefacts  
 - Reflective piece (~1,000 words).  
-- Slides and recorded presentation.  
+- [Summary](../../Units/Unit_10-12/Summary.md)
+- [Feedback](../../Units/Unit_10-12/Feedback.md)
+
+
