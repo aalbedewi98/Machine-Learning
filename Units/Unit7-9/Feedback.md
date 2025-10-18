@@ -44,12 +44,11 @@
 - LO4: Collaborate professionally and communicate analytical insights.
 
 **Related Artefacts:**
-- `Gradient_Descent_Example_for_Linear_Regression.ipynb`
-- `Initial_Post.md`
-- `Peer_Response_1.md`
-- `Peer_Response_2.md`
-- `Reflection_Gradient_Descent.md`
-
+- [Initial_Post](../../Units/Unit7-9/Artefacts/Unit08_InitialPost.png)  
+- [Peer_Response_1](../../Units/Unit7-9/Artefacts/Unit08_PeerResponse1.png)
+- [Peer_Response_2](../../Units/Unit7-9/Artefacts/Unit08_PeerResponse2.png)
+- [Gradient_Descent_Example_for_Linear_Regression](../../Units/Unit7-9/Artefacts/Unit08_gradient_descent_cost_function.ipynb)
+  
 ---
 
 ## Unit 9 – Introduction to Convolutional Neural Networks (CNN)
