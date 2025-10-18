@@ -68,9 +68,9 @@
 - LO4: Communicate insights and collaborate professionally in AI tasks.
 
 **Related Artefacts:**
-- `Convolutional_Neural_Networks_Object_Recognition.ipynb`
-- `Unit9_Seminar_Notes.md`
-
+- [Convolutional_Neural_Networks_(CNN)_Object_Recognition](../../Units/Unit7-9/Artefacts/Unit09_Ex1_Convolutional_Neural_Networks_(CNN)_Object_Recognition.ipynb)
+- [Summary]
+- [Seminar_Recordings]
 ---
 
 ## Overall Feedback – Units 7–9
