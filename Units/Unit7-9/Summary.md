@@ -67,8 +67,8 @@ This unit focused on learning mechanisms in ANN, including error handling and we
 
 ### Related Artefacts
 - [Initial_Post](../../Units/Unit7-9/Artefacts/Unit08_InitialPost.png)  
-- [Peer_Response_1](../../Units/Unit7-9/Artefacts/Gradient.png)
-- [Peer_Response_2](../../Units/Unit7-9/Artefacts/Gradient.png) 
+- [Peer_Response_1](../../Units/Unit7-9/Artefacts/Unit08_PeerResponse1.png)
+- [Peer_Response_2](../../Units/Unit7-9/Artefacts/Unit08_PeerResponse2.png) 
 
 ---
 
