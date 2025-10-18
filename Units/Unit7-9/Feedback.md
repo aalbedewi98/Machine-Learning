@@ -24,6 +24,8 @@
 - [Simple_Perceptron](../../Units/Unit7-9/Artefacts/Unit07_Ex1_simple_perceptron.ipynb)
 - [Perceptron_AND_Operator](../../Units/Unit7-9/Artefacts/Unit07_Ex2_perceptron_AND_operator.ipynb)
 - [Multi_Layer_Perceptron.ipynb](../../Units/Unit7-9/Artefacts/Unit07_Ex3_multi_layer_Perceptron.ipynb)
+-  [Summary](../../Units/Unit7-9/Summary.md)
+- [Seminar_Recordings](../../Units/Unit7-9/Seminar_Recordings.md)
 
 ---
 
@@ -48,6 +50,8 @@
 - [Peer_Response_1](../../Units/Unit7-9/Artefacts/Unit08_PeerResponse1.png)
 - [Peer_Response_2](../../Units/Unit7-9/Artefacts/Unit08_PeerResponse2.png)
 - [Gradient_Descent_Example_for_Linear_Regression](../../Units/Unit7-9/Artefacts/Unit08_gradient_descent_cost_function.ipynb)
+- [Summary](../../Units/Unit7-9/Summary.md)
+- [Seminar_Recordings](../../Units/Unit7-9/Seminar_Recordings.md)
   
 ---
 
@@ -69,8 +73,8 @@
 
 **Related Artefacts:**
 - [Convolutional_Neural_Networks_(CNN)_Object_Recognition](../../Units/Unit7-9/Artefacts/Unit09_Ex1_Convolutional_Neural_Networks_(CNN)_Object_Recognition.ipynb)
-- [Summary]
-- [Seminar_Recordings]
+- [Summary](../../Units/Unit7-9/Summary.md)
+- [Seminar_Recordings](../../Units/Unit7-9/Seminar_Recordings.md)
 ---
 
 ## Overall Feedback – Units 7–9
