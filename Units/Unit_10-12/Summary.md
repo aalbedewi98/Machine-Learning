@@ -1,4 +1,4 @@
-# e-Portfolio Summary – Units 10 to 12
+# Summary – Units 10 to 12
 **Module:** Machine Learning  
 **Student:** Ajayeb Mohammed S. H. Al-Bedewi  
 
