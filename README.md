@@ -32,8 +32,6 @@ Welcome to my Machine Learning e-portfolio. This portfolio documents my learning
    - Skills Matrix  
    - Personal Action Plan  
 
-7. [Additional Artefacts](Additional_Documents/README.md)  
-   - Other relevant documents, screenshots, and evidence  
 
 ---
 
