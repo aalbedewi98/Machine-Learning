@@ -105,8 +105,8 @@ This unit introduced CNNs and advanced architectures like GANs, dueling networks
 - **LO4:** Communicate insights and collaborate professionally in AI tasks.  
 
 ### Related Artefacts
-- [Unit9_Artefacts](../../Units/Unit7-9/Artefacts/Unit9)  
-- [CNN_Model_Activity](../../Units/Unit7-9/Artefacts/CNN.png)  
+- [Convolutional_Neural_Networks_(CNN)_Object_Recognition](../../Units/Unit7-9/Artefacts/Unit09_Ex1_Convolutional_Neural_Networks_(CNN)_Object_Recognition.ipynb)  
+
 
 ---
 
