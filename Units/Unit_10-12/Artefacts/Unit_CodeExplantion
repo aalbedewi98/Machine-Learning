@@ -1,0 +1,55 @@
+# NLP Summarization Project - Explanation
+
+## Overview
+This project demonstrates practical text summarization using transformers (BART model). The steps include dataset preprocessing, summary generation, and evaluation using ROUGE metrics.
+
+## Steps
+1. **Data Preparation**
+   - Load CSV dataset with a `text` column.
+   - Clean text: remove extra spaces, line breaks.
+2. **Model Selection**
+   - Used BART (`facebook/bart-large-cnn`) for summarization.
+3. **Summarization**
+   - Summaries generated using max_length=130, min_length=30.
+4. **Evaluation**
+   - ROUGE-1 and ROUGE-L scores calculated to measure similarity between reference text and summary.
+5. **Output**
+   - Summaries saved in CSV for further analysis.
+
+## Notes
+- Data augmentation not needed for text summarization.
+- Preprocessing ensures tokenization works properly.
+- Evaluation helps identify which summaries are closest to original content.
+
+------
+
+# Transformer Models Review - Explanation
+
+## Overview
+This artefact provides theoretical background and demos for popular transformer models: BERT, GPT, and T5.
+
+## Models
+
+### BERT
+- Bidirectional Encoder Representations from Transformers
+- Pre-trained for masked language modeling
+- Use cases: classification, NER, QA
+
+### GPT
+- Decoder-only transformer
+- Pre-trained for language generation
+- Use cases: text completion, conversation, summarization
+
+### T5
+- Text-to-Text Transfer Transformer
+- Unified NLP tasks as text-to-text
+- Use cases: translation, summarization, QA
+
+## Attention Mechanism
+- Multi-head attention allows model to focus on different parts of input simultaneously.
+- Queries, Keys, and Values compute weighted importance of tokens.
+- Enables transformers to capture long-range dependencies.
+
+## Notes
+- Small demo code illustrates input tokenization, model inference, and output decoding.
+- Diagrams can be added in `figures/` folder if needed.
