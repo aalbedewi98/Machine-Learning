@@ -38,7 +38,8 @@ This unit introduced the structure and logic of ANN, inspired by biological neur
 - [Simple_Perceptron](../../Units/Unit7-9/Artefacts/Unit07_Ex1_simple_perceptron.ipynb)
 - [Perceptron_AND_Operator](../../Units/Unit7-9/Artefacts/Unit07_Ex2_perceptron_AND_operator.ipynb)  
 - [Multi_Layer_Perceptron](../../Units/Unit7-9/Artefacts/Unit07_Ex3_multi_layer_Perceptron.ipynb) 
-
+- [Feedback](../../Units/Unit7-9/Feedback.md)
+- [Seminar_Recordings](../../Units/Unit7-9/Seminar_Recordings.md)
 ---
 
 # Unit 8 – Training an Artificial Neural Network
@@ -72,6 +73,8 @@ This unit focused on **learning mechanisms in Artificial Neural Networks (ANNs)*
 - [Peer_Response_1](../../Units/Unit7-9/Artefacts/Unit08_PeerResponse1.png)
 - [Peer_Response_2](../../Units/Unit7-9/Artefacts/Unit08_PeerResponse2.png)
 - [Gradient_Descent_Example_for_Linear_Regression](../../Units/Unit7-9/Artefacts/Unit08_gradient_descent_cost_function.ipynb)
+-  [Feedback](../../Units/Unit7-9/Feedback.md)
+- [Seminar_Recordings](../../Units/Unit7-9/Seminar_Recordings.md)
 
   
 ## Reflection Note – Gradient Descent
@@ -106,8 +109,8 @@ This unit introduced CNNs and advanced architectures like GANs, dueling networks
 
 ### Related Artefacts
 - [Convolutional_Neural_Networks_(CNN)_Object_Recognition](../../Units/Unit7-9/Artefacts/Unit09_Ex1_Convolutional_Neural_Networks_(CNN)_Object_Recognition.ipynb)  
-
-
+- [Feedback](../../Units/Unit7-9/Feedback.md)
+- [Seminar_Recordings](../../Units/Unit7-9/Seminar_Recordings.md)
 ---
 
 ## Reflection
