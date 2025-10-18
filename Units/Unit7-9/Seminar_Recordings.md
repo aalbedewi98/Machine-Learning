@@ -54,7 +54,6 @@ Preparing for this seminar under the guidance of Dr. Steph Paladini enhanced my 
 ---
 
 ### Artefacts
-- `Unit8_Artefacts`  
-- `Unit8_SeminarNotes`  
-- `Unit8_TeamDiscussion`  
+- [Summary](Units/Unit7-9/Summary.md)
+- [Feedback](Units/Unit7-9/Feedback.md)
 
