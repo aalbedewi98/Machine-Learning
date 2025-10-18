@@ -60,7 +60,7 @@ This unit focused on the theoretical foundations of clustering, including groupi
 ### Related Artefacts
 - ![Wiki_K-means_Clustering](../../Units/Unit4-6/Artefacts/Wiki.png)  
 - ![Wiki_Peer](../../Units/Unit4-6/Artefacts/WikiPeer.png)  
-- ![Jaccard_Coefficient_Calculations](../../Units/Unit4-6/Artefacts/Jaccard.png)  
+- ![Jaccard_Coefficient_Calculations](../../Units/Unit4-6/Artefacts/Unit05_Jaccard_Coefficient_Calculation.ipynb)  
 
 ---
 
