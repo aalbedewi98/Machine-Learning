@@ -68,7 +68,7 @@ This foundational phase prepared me for more advanced ML topics and future profe
 
 ## Related Artefacts
 - [Codes_Artefacts](../../Units/Unit1-3/Artefacts)   
-- [Feedback Notes](../../Units/Unit1-3/Feedback_Notes)  
+- [Feedback Notes](../../Units/Unit1-3/Feedback.md)  
 - [Seminar Recordings](../../Units/Unit1-3/Seminar_Recordings.md)
 
 ---
