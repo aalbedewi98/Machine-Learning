@@ -21,12 +21,10 @@
 - LO4: Communicate insights and collaborate professionally.
 
 **Related Artefacts:**
-- `Unit10_NLP_Summary_Post.md`
-- `Transformer_Model_Exercises.ipynb`
-- `Peer_Response_Summary.md`
+-[Seminar_And_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
+-[Summary](../../Units/Unit_10-12/Summary.md)
 
-**Summary**
-- Seminar_Recordings  
+
 
 ---
 
@@ -46,12 +44,8 @@
 - LO4: MLOps principles and professional deployment.
 
 **Related Artefacts:**
-- `Hyperparameter_Tuning_Exercises.ipynb`
-- `Model_Evaluation_Report.md`
-- `ePortfolio_Model_Performance_Update.md`
-
-**Summary**
-- Seminar_Recordings  
+-[Seminar_And_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
+-[Summary](../../Units/Unit_10-12/Summary.md)
 
 ---
 
@@ -71,12 +65,9 @@
 - LO4: Communicate professional insights and reflect on ethical implications.
 
 **Related Artefacts:**
-- `Industry4_0_ML_Case_Study.md`
-- `Edge_AI_Example.ipynb`
-- `Seminar_Reflection_Unit12.md`
+-[Seminar_And_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
+-[Summary](../../Units/Unit_10-12/Summary.md)
 
-**Summary**
-- Seminar_Recordings  
 
 ---
 
