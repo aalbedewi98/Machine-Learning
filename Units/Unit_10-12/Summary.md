@@ -94,7 +94,7 @@ Units 10–12 focused on Natural Language Processing (NLP), Model Selection & Ev
 - LO4: Communicate professional insights and reflect on ethical implications
 
 **Related Artefacts**
-- `Industry4_0_ML_Case_Study.md`
+- [Industry4_0_ML_Case_Study](../../Units/Unit_10-12/Artefacts/Unit12_Industry4_0_ML_Case_Study.md)
 - [Seminar_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
 - [Feedback](../../Units/Unit_10-12/Feedback.md)
 ---
