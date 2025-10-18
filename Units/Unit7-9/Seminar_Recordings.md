@@ -54,6 +54,6 @@ Preparing for this seminar under the guidance of Dr. Steph Paladini enhanced my 
 ---
 
 ### Artefacts
-- [Summary](Units/Unit7-9/Summary.md)
-- [Feedback](Units/Unit7-9/Feedback.md)
+- [Summary](../../Units/Unit7-9/Summary.md)
+- [Feedback](../../Units/Unit7-9/Feedback.md)
 
