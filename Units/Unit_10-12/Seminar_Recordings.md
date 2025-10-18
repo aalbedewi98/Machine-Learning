@@ -1,4 +1,4 @@
-# Seminar 
+# Units 10-12 Seminar Preparation and Summaries
 
 ---
 
