@@ -66,8 +66,9 @@ This unit focused on learning mechanisms in ANN, including error handling and we
 - **LO4:** Collaborate professionally and communicate analytical insights.  
 
 ### Related Artefacts
-- [Unit8_Artefacts](../../Units/Unit7-9/Artefacts/Unit8)  
-- [Gradient_Cost_Function](../../Units/Unit7-9/Artefacts/Gradient.png)  
+- [Initial_Post](../../Units/Unit7-9/Artefacts/Unit08_InitialPost.png)  
+- [Peer_Response_1](../../Units/Unit7-9/Artefacts/Gradient.png)
+- [Peer_Response_2](../../Units/Unit7-9/Artefacts/Gradient.png) 
 
 ---
 
