@@ -21,9 +21,9 @@
 - LO4: Communicate insights and collaborate professionally in AI-related tasks.
 
 **Related Artefacts:**
-- `Simple_Perceptron.ipynb`
-- `Perceptron_AND_Operator.ipynb`
-- `Multi_Layer_Perceptron.ipynb`
+- [Simple_Perceptron](../../Units/Unit7-9/Artefacts/Unit07_Ex1_simple_perceptron.ipynb)
+- [Perceptron_AND_Operator]
+- [Multi_Layer_Perceptron.ipynb]
 
 ---
 
