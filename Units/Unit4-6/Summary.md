@@ -26,19 +26,27 @@ This unit introduced the application of linear regression using Scikit-Learn. I 
 
 ---
 
-## Unit 5 – Clustering
-This unit focused on the theoretical foundations of clustering, including the logic behind grouping objects, distance measurements, K-Means and Agglomerative clustering, and evaluating clusters.
+## Unit 5 – Clustering (Theory and Class Activities)
+This unit focused on the theoretical foundations of clustering, including grouping objects, distance measurements, K-Means and Agglomerative clustering, and evaluating clusters. Although no formal seminar was conducted, class activities involved interactive animations and wiki collaboration.
+
+**Class Activities Completed:**
+- Watched two clustering animations:  
+  1. Standard clustering visualization.  
+  2. “I’ll choose” + “Uniform Points” option to explore different initialization effects.  
+- Participated in the module wiki activity:  
+  - Shared insights about cluster relationships observed in animations.  
+  - Commented on peers’ posts to enhance collaborative learning.
 
 **Key Takeaways:**
-- Understood the logic and rationale of clustering techniques.
-- Learned to evaluate cluster quality and identify pitfalls in clustering methods.
-- Developed skills to critically assess clustering results in real-world datasets.
-- Improved teamwork and collaborative problem-solving through activities and discussions.
+- Developed understanding of clustering logic and algorithm rationale.  
+- Recognized how initial conditions and point distributions impact cluster formation.  
+- Gained skills in evaluating cluster quality and identifying potential pitfalls.  
+- Strengthened teamwork and peer learning through wiki discussions.
 
 **Linked Learning Outcomes:**
-- **LO2:** Understand the principles and challenges of clustering datasets.
-- **LO3:** Apply clustering techniques and evaluate the results.
-- **LO4:** Communicate results effectively and collaborate in team tasks.
+- **LO2:** Understand the principles and challenges of clustering datasets.  
+- **LO3:** Apply clustering concepts and critically evaluate results.  
+- **LO4:** Communicate insights and collaborate effectively in team-based tasks.
 
 ---
 
@@ -46,20 +54,20 @@ This unit focused on the theoretical foundations of clustering, including the lo
 This unit applied K-Means clustering on real-life datasets using Python and Scikit-Learn. It focused on practical implementation, evaluation, and interpretation of clustering results.
 
 **Key Takeaways:**
-- Applied K-Means clustering using Scikit-Learn libraries.
-- Learned to evaluate and interpret clustering results for data-driven decision-making.
-- Strengthened Python programming skills in a practical, real-world context.
+- Applied K-Means clustering using Scikit-Learn libraries.  
+- Learned to evaluate and interpret clustering results for data-driven decision-making.  
+- Strengthened Python programming skills in a practical, real-world context.  
 - Updated the e-Portfolio and collaborated on team-based analytical projects.
 
 **Linked Learning Outcomes:**
-- **LO2:** Undertake clustering analysis on large datasets and understand data limitations.
-- **LO3:** Use Python libraries to implement and evaluate clustering algorithms.
+- **LO2:** Undertake clustering analysis on large datasets and understand data limitations.  
+- **LO3:** Use Python libraries to implement and evaluate clustering algorithms.  
 - **LO4:** Collaborate professionally, report results, and update the e-Portfolio.
 
 ---
 
 ## Reflection
-Across Units 4–6, I enhanced my practical ML skills, particularly in regression and clustering. I gained confidence in using Python for data modeling, learned to evaluate results critically, and improved teamwork and communication in analytical tasks. These units prepared me for more complex data analysis projects and real-world machine learning applications.
+Across Units 4–6, I enhanced my practical ML skills, particularly in regression and clustering. I gained confidence in using Python for data modeling, learned to evaluate results critically, and improved teamwork and communication in analytical tasks. The inclusion of interactive animations and wiki-based peer feedback in Unit 5 highlighted the value of visual and collaborative learning. These units prepared me for more complex data analysis projects and real-world machine learning applications.
 
 ---
 
