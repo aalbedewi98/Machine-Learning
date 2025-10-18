@@ -22,7 +22,7 @@
 - LO3: Reflect on ethical considerations in AI technologies.  
 
 **Related Artefacts:**  
-- [NLP_AND_Transformer_Models_Code](../../Units/Unit_10-12/Artefacts/Unit10_CodeExplantion.ipyn) 
+- [NLP_AND_Transformer_Models_Code](../../Units/Unit_10-12/Artefacts/Unit10_Code.ipynb) 
 - [NLP_AND_Transformer_Models_Explantion](../../Units/Unit_10-12/Artefacts/Unit10_CodeExplantion.md)  
 - [Summary](../../Units/Unit_10-12/Summary.md)
 - [Seminar_And_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
