@@ -47,9 +47,9 @@ Attending the seminar clarified module expectations and increased confidence in 
 - **LO4:** Develop reflective skills related to teamwork and learning.  
 
 **Artefacts:**  
-- [Recording & Seminars](../../artefacts/Recording_AND_seminars.md)  
-- [Intro to ML Notes](../../artefacts/intro_to_ml_notes.md)  
-- [Peer Notes](../../artefacts/peer_notes.md)  
+- [Unit1-3_Artefacts](../../Units/Unit1-3/Artefacts)  
+- [Unit1-3_Summary](../../Units/Unit1-3/Summary.md)  
+- [Unit1-3_Feedback](../../Units/Unit1-3/Feedback_notes.md)  
 
 ---
 
@@ -100,10 +100,10 @@ Although I worked individually, following tutorials and peer contributions enhan
 - **LO4:** Strengthen virtual collaboration and independent learning skills.  
 
 **Artefacts:**  
-- [EDA Tutorial Notebook](../../artefacts/Unit02_Eda_notebooks.ipynb)  
-- [EDA Visualizations](../../artefacts/EDA_visuals.png)  
-- [Peer Notes](../../artefacts/peer_notes.md)  
-- [Seminar Recording](../../artefacts/Recording_AND_seminars.md)  
+- [Unit1-3_Artefacts](../../Units/Unit1-3/Artefacts)  
+- [Unit1-3_Summary](../../Units/Unit1-3/Summary.md)  
+- [Unit1-3_Feedback](../../Units/Unit1-3/Feedback_notes.md)  
+
 
 ---
 
