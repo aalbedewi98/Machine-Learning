@@ -41,34 +41,43 @@ This unit introduced the structure and logic of ANN, inspired by biological neur
 
 ---
 
-## Unit 8 – Training an Artificial Neural Network
-This unit focused on learning mechanisms in ANN, including error handling and weight adjustment using backpropagation.
+# Unit 8 – Training an Artificial Neural Network
 
-### Learning Activities
-- **Lecturecast:** 1 hr on backpropagation and ANN training.  
-- **Reading:** Backpropagation methods and ANN applications in business scenarios.  
-- **Formative Activities:**  
-  - Collaborative discussion on ANN applications.  
-  - e-Portfolio activity: Gradient cost function exercises.  
-  - Update e-Portfolio with insights from peer discussions.  
-- **Seminar:** Emerging research in ANN, 3 hrs live seminar plus 1 hr preparation.  
-- **e-Portfolio Component:** Review Hutson (2021) article on Robo-writers; post reflections on AI writers’ risks and benefits.  
+This unit focused on **learning mechanisms in Artificial Neural Networks (ANNs)**, including error handling, weight adjustment via backpropagation, and practical applications in professional and creative contexts.
 
-### Key Takeaways
-- Understood error handling in ANN using backpropagation.  
-- Gained skills in designing and developing more complex ANN artefacts.  
-- Critically evaluated the professional, legal, and ethical implications of ANN applications.  
-- Strengthened collaboration skills through peer discussions.  
+## Learning Activities
+- **Lecturecast:** 1 hr on backpropagation, gradient descent, and ANN training principles.
+- **Reading:** Academic and professional literature on backpropagation methods and ANN applications.
+- **Formative Activities:**
+  - Collaborative discussion on **legal, ethical, and professional implications of ANN applications**, including AI writers.
+  - e-Portfolio activity: **Gradient descent cost function exercises** in Python.
+  - Reflection on peer feedback integration.
+- **Seminar:** 3-hr live seminar on emerging ANN research + 1 hr preparation.
+- **e-Portfolio Component:** Critical review of Hutson (2021) on Robo-writers; reflection on risks and benefits of AI-generated content.
 
-### Linked Learning Outcomes
-- **LO2:** Understand error handling and dataset challenges for ANN.  
-- **LO3:** Apply backpropagation and ANN techniques.  
-- **LO4:** Collaborate professionally and communicate analytical insights.  
+## Key Takeaways
+- Implemented **gradient descent** for linear regression; observed effects of changing iterations and learning rates on cost convergence.
+- Learned **backpropagation in ANN**: error propagation and weight adjustments.
+- Designed and trained **more complex ANN artefacts**.
+- Critically evaluated **legal, ethical, and professional implications** of AI-generated content.
+- Strengthened **collaboration and communication skills**.
+
+## Linked Learning Outcomes
+- **LO2:** Understand error handling and dataset challenges in ANN.
+- **LO3:** Apply backpropagation and gradient descent techniques.
+- **LO4:** Collaborate professionally and communicate analytical insights.
 
 ### Related Artefacts
 - [Initial_Post](../../Units/Unit7-9/Artefacts/Unit08_InitialPost.png)  
 - [Peer_Response_1](../../Units/Unit7-9/Artefacts/Unit08_PeerResponse1.png)
-- [Peer_Response_2](../../Units/Unit7-9/Artefacts/Unit08_PeerResponse2.png) 
+- [Peer_Response_2](../../Units/Unit7-9/Artefacts/Unit08_PeerResponse2.png)
+- [Gradient_Descent_Example_for_Linear_Regression] (../../Units/Unit7-9/Artefacts/Unit08_gradient_descent_cost_function.ipynb)
+
+  
+## Reflection Note – Gradient Descent
+- **Learning Rate Impact:** High learning rate → fast but unstable convergence; Low → stable but slower.
+- **Iteration Impact:** More iterations → closer convergence to minimum cost; fewer iterations → incomplete learning.
+- **Connection to ANN:** Gradient descent principles are directly applicable to backpropagation in neural networks.
 
 ---
 
