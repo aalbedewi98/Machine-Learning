@@ -62,6 +62,8 @@ The session improved my understanding of NLP and its applications, highlighting 
 Studying CNNs helped me understand image classification, model training processes, and hyperparameter tuning. Although no seminar was held, personal study and team coordination enhanced practical skills in deep learning.  
 
 ### Artefacts
+- [CIFAR10_CNN_Implementation](../../Projects/CNNCode.ipynb)
+- [Project_Overview](../../Projects/ProjectOverview.md)
 - [Summary](../../Units/Unit_10-12/Summary.md)
 - [Feedback](../../Units/Unit_10-12/Feedback.md)
 
