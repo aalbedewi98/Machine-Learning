@@ -67,10 +67,8 @@ This foundational phase prepared me for more advanced ML topics and future profe
 ---
 
 ## Related Artefacts
-- [Intro to ML Notes](../../artefacts/intro_to_ml_notes.md)  
-- [EDA Notebook](../../artefacts/Unit02_eda_notebooks.ipynb)  
-- [Correlation & Regression Notebook](../../artefacts/Unit03_correlation_regression_notebooks.ipynb)  
-- [Peer Notes](../../artefacts/peer_notes.md)  
+- [Codes_Artefacts](../../Units/Unit1-3/Artefacts)   
+- [Feedback Notes](../../Units/Unit1-3/Feedback_Notes)  
 - [Seminar Recordings](../../artefacts/Recording_AND_seminars.md)
 
 ---
