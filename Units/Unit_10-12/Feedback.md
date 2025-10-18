@@ -48,7 +48,9 @@
 
 **Related Artefacts:**  
 - [CIFAR10_CNN_Implementation](../../Projects/CNNCode.ipynb)
+- [Project_Overview](../../Projects/ProjectOverview.md)
 - [Summary](../../Units/Unit_10-12/Summary.md)
+- [Seminar_And_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
 
 ---
 
