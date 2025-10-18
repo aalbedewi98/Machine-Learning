@@ -35,6 +35,11 @@ Units 10–12 focused on Natural Language Processing (NLP), Model Selection & Ev
 - `Transformer_Model_Exercises.ipynb`
 - `Peer_Response_Summary.md`
 
+- [NLP_AND_Transformer_Models_Code](../../Units/Unit_10-12/Artefacts/Unit10_Code.ipynb) 
+- [NLP_AND_Transformer_Models_Explantion](../../Units/Unit_10-12/Artefacts/Unit10_CodeExplantion.md)  
+- [Summary](../../Units/Unit_10-12/Summary.md)
+- [Feedback](../../Units/Unit_10-12/Feedback.md)
+
 **Feedback**
 - Seminar recordings
 
@@ -60,12 +65,11 @@ Units 10–12 focused on Natural Language Processing (NLP), Model Selection & Ev
 - LO4: MLOps principles and professional deployment
 
 **Related Artefacts**
-- `Hyperparameter_Tuning_Exercises.ipynb`
-- `Model_Evaluation_Report.md`
-- `ePortfolio_Model_Performance_Update.md`
+- [CIFAR10_CNN_Implementation](../../Projects/CNNCode.ipynb)
+- [Project_Overview](../../Projects/ProjectOverview.md)
+- [Seminar_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
+- [Feedback](../../Units/Unit_10-12/Feedback.md)
 
-**Feedback**
-- Seminar recordings
 
 ---
 
@@ -91,12 +95,8 @@ Units 10–12 focused on Natural Language Processing (NLP), Model Selection & Ev
 
 **Related Artefacts**
 - `Industry4_0_ML_Case_Study.md`
-- `Edge_AI_Example.ipynb`
-- `Seminar_Reflection_Unit12.md`
-
-**Feedback**
-- Seminar recordings
-
+- [Seminar_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
+- [Feedback](../../Units/Unit_10-12/Feedback.md)
 ---
 
 ## Reflection
