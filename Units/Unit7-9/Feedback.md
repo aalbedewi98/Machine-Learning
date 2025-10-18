@@ -23,7 +23,7 @@
 **Related Artefacts:**
 - [Simple_Perceptron](../../Units/Unit7-9/Artefacts/Unit07_Ex1_simple_perceptron.ipynb)
 - [Perceptron_AND_Operator](../../Units/Unit7-9/Artefacts/Unit07_Ex2_perceptron_AND_operator.ipynb)
-- [Multi_Layer_Perceptron.ipynb]
+- [Multi_Layer_Perceptron.ipynb](../../Units/Unit7-9/Artefacts/Unit07_Ex3_multi_layer_Perceptron.ipynb)
 
 ---
 
