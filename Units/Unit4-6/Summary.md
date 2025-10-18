@@ -64,10 +64,9 @@ Across Units 4–6, I enhanced my practical ML skills, particularly in regressio
 ---
 
 ## Related Artefacts
-- Codes and Jupyter notebooks
-- Team project submissions
-- Seminar recordings
-- e-Portfolio updates
+- [Unit6_Artefacts](../../Units/Unit4-6/Artefacts)  
+- [Unit6_Seminar_and_Recording](../../Units/Unit4-6/Seminar_Recordings.md)  
+- [Unit6_Feedback](../../Units/Unit4-6/Feedback.md)  
 
 ---
 
