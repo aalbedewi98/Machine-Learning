@@ -24,7 +24,8 @@
 **Related Artefacts:**  
 - `NLP_Summarization_Project`  
 - `Transformer_Models_Review`  
-- `Seminar_Recordings`  
+-  [Summary](../../Units/Unit_10-12/Summary.md)
+-  [Seminar_And_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
 
 ---
 
@@ -46,9 +47,8 @@
 - LO3: Communicate insights and collaborate professionally.  
 
 **Related Artefacts:**  
-- `CIFAR10_CNN_Implementation`  
-- `Hyperparameter_Tuning_Examples`  
-- `Summary`  
+- [CIFAR10_CNN_Implementation](../../Projects/CNNCode.ipynb)
+- [Summary](../../Units/Unit_10-12/Summary.md)
 
 ---
 
@@ -69,11 +69,11 @@
 - LO2: Develop collaboration and communication skills.  
 - LO3: Reflect on professional, ethical, and practical considerations.  
 
-**Related Artefacts:**  
-- `GitHub_Repository_Links`  
-- `Reflective_Writing (~1,000 words)`  
-- `Seminar_Recordings`  
-- `Assignment_Slides`  
+**Related Artefacts:**   
+- `Reflective_Writing (~1,000 words)`   
+- `Assignment_Slides`
+-  [Summary](../../Units/Unit_10-12/Summary.md)
+-  [Seminar_And_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
 
 ---
 
