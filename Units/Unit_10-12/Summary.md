@@ -31,10 +31,6 @@ Units 10–12 focused on Natural Language Processing (NLP), Model Selection & Ev
 - LO4: Communicate insights and collaborate professionally
 
 **Related Artefacts**
-- `Unit10_NLP_Summary_Post.md`
-- `Transformer_Model_Exercises.ipynb`
-- `Peer_Response_Summary.md`
-
 - [NLP_AND_Transformer_Models_Code](../../Units/Unit_10-12/Artefacts/Unit10_Code.ipynb) 
 - [NLP_AND_Transformer_Models_Explantion](../../Units/Unit_10-12/Artefacts/Unit10_CodeExplantion.md)  
 - [Summary](../../Units/Unit_10-12/Summary.md)
@@ -94,6 +90,7 @@ Units 10–12 focused on Natural Language Processing (NLP), Model Selection & Ev
 - LO4: Communicate professional insights and reflect on ethical implications
 
 **Related Artefacts**
+- [Reflection_Paper](../../Reflection/Reflection.md)
 - [Industry4_0_ML_Case_Study](../../Units/Unit_10-12/Artefacts/Unit12_Industry4_0_ML_Case_Study.md)
 - [Seminar_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
 - [Feedback](../../Units/Unit_10-12/Feedback.md)
