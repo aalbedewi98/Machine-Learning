@@ -47,7 +47,6 @@ Attending the seminar clarified module expectations and increased confidence in 
 - **LO4:** Develop reflective skills related to teamwork and learning.  
 
 **Artefacts:**  
-- [Unit1-3_Artefacts](../../Units/Unit1-3/Artefacts)  
 - [Unit1-3_Summary](../../Units/Unit1-3/Summary.md)  
 - [Unit1-3_Feedback](../../Units/Unit1-3/Feedback.md)  
 
@@ -74,6 +73,10 @@ Attending the seminar clarified module expectations and increased confidence in 
 - Replaced categorical values with numeric encodings (America = 1, Europe = 2, Asia = 3).  
 - Reviewed sample notebooks and peer exercises.  
 
+**Artefacts:**  
+- [Unit2_Artefacts](../../Units/Unit1-3/Artefacts/Unit02_Eda_Notebooks.ipynb)
+- [Unit1-3_Summary](../../Units/Unit1-3/Summary.md)  
+- [Unit1-3_Feedback](../../Units/Unit1-3/Feedback.md)  
 ---
 
 ### Seminar Summary  
