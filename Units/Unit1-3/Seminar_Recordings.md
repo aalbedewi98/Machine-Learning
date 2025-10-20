@@ -74,7 +74,7 @@ Attending the seminar clarified module expectations and increased confidence in 
 - Reviewed sample notebooks and peer exercises.  
 
 **Artefacts:**  
-- [Unit2_Artefacts](../../Units/Unit1-3/Artefacts/Unit02_Eda_Notebooks.ipynb)
+- [EDA_Notebooks](../../Units/Unit1-3/Artefacts/Unit02_Eda_Notebooks.ipynb)
 - [Unit1-3_Summary](../../Units/Unit1-3/Summary.md)  
 - [Unit1-3_Feedback](../../Units/Unit1-3/Feedback.md)  
 ---
@@ -103,7 +103,8 @@ Although I worked individually, following tutorials and peer contributions enhan
 - **LO4:** Strengthen virtual collaboration and independent learning skills.  
 
 **Artefacts:**  
-- [Unit1-3_Artefacts](../../Units/Unit1-3/Artefacts)  
+- [Correlation_Regression](../../Units/Unit1-3/Artefacts/Unit03_Correlation_Regression_notebook.ipynb)
+-  
 - [Unit1-3_Summary](../../Units/Unit1-3/Summary.md)  
 - [Unit1-3_Feedback](../../Units/Unit1-3/Feedback.md)  
 
