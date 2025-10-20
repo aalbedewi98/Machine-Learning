@@ -107,7 +107,7 @@ The seminar reinforced the importance of professional documentation, reflective 
 - **LO3:** Reflect on ethical, professional, and practical considerations in AI.  
 
 ### Artefacts  
-- Reflective piece (~1,000 words).  
+- [Reflection_Paper](../../Reflection/Reflection.md)
 - [Summary](../../Units/Unit_10-12/Summary.md)
 - [Feedback](../../Units/Unit_10-12/Feedback.md)
 
