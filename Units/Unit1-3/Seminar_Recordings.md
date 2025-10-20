@@ -104,7 +104,8 @@ Although I worked individually, following tutorials and peer contributions enhan
 
 **Artefacts:**  
 - [Correlation_Regression](../../Units/Unit1-3/Artefacts/Unit03_Correlation_Regression_notebook.ipynb)
--  
+- [Covariance_Pearson_Correlation](../../Units/Unit1-3/Artefacts/Unit03_Ex1_covariance_pearson_correlation.ipynb)
+- 
 - [Unit1-3_Summary](../../Units/Unit1-3/Summary.md)  
 - [Unit1-3_Feedback](../../Units/Unit1-3/Feedback.md)  
 
