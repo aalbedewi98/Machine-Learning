@@ -72,8 +72,7 @@
 - LO3: Reflect on professional, ethical, and practical considerations.  
 
 **Related Artefacts:**   
-- `Reflective_Writing (~1,000 words)`   
-- `Assignment_Slides`
+- - [Reflection_Paper](../../Reflection/Reflection.md)
 -  [Summary](../../Units/Unit_10-12/Summary.md)
 -  [Seminar_And_Recordings](../../Units/Unit_10-12/Seminar_Recordings.md)
 
