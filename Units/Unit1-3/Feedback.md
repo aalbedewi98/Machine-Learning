@@ -70,6 +70,11 @@ It highlights insights from the healthcare and energy sectors on Industry 4.0 an
 - Reflected on the importance of statistical reasoning, prediction accuracy, and ethical interpretation of results in ML applications.
 
 ---
+**Artefacts:**  
+- [Unit1-3_Artefacts](../../Units/Unit1-3/Artefacts)  
+- [Unit1-3_Summary](../../Units/Unit1-3/Summary.md)  
+- [Unit1-3_Seminar_And_Recordings](../../Units/Unit1-3/Seminar_Recordings.md)  
+
 
 ## Reflection
 - Observing peer contributions in Unit 1 enhanced my understanding of **ethical, social, and professional issues in ML** (LO1).  
